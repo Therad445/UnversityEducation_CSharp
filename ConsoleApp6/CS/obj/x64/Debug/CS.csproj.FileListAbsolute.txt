@@ -1,0 +1,13 @@
+D:\FILES\Documents\last3\CS_6\CS\bin\x64\Debug\CS.exe.config
+D:\FILES\Documents\last3\CS_6\CS\bin\x64\Debug\CS.exe
+D:\FILES\Documents\last3\CS_6\CS\bin\x64\Debug\CS.pdb
+D:\FILES\Documents\last3\CS_6\CS\obj\x64\Debug\CS.csprojAssemblyReference.cache
+D:\FILES\Documents\last3\CS_6\CS\obj\x64\Debug\CS.csproj.CoreCompileInputs.cache
+D:\FILES\Documents\last3\CS_6\CS\obj\x64\Debug\CS.exe
+D:\FILES\Documents\last3\CS_6\CS\obj\x64\Debug\CS.pdb
+D:\FILES\Documents\last3\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.exe.config
+D:\FILES\Documents\last3\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.exe
+D:\FILES\Documents\last3\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.pdb
+D:\FILES\Documents\last3\CS_6\Build\x64\Debug\CS.exe.config
+D:\FILES\Documents\last3\CS_6\Build\x64\Debug\CS.exe
+D:\FILES\Documents\last3\CS_6\Build\x64\Debug\CS.pdb
